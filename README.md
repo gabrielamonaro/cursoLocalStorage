@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+Progresso do curso Local Storage com JavaScript da Alura.
